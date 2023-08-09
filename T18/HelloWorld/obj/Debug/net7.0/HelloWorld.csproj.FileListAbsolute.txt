@@ -1,0 +1,14 @@
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll

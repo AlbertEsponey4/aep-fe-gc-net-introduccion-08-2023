@@ -1,0 +1,14 @@
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\bin\Debug\net7.0\ConsoleApplication5.exe
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\bin\Debug\net7.0\ConsoleApplication5.deps.json
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\bin\Debug\net7.0\ConsoleApplication5.runtimeconfig.json
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\bin\Debug\net7.0\ConsoleApplication5.dll
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\bin\Debug\net7.0\ConsoleApplication5.pdb
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ConsoleApplication5.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ConsoleApplication5.AssemblyInfoInputs.cache
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ConsoleApplication5.AssemblyInfo.cs
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ConsoleApplication5.csproj.CoreCompileInputs.cache
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ConsoleApplication5.dll
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\refint\ConsoleApplication5.dll
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ConsoleApplication5.pdb
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ConsoleApplication5.genruntimeconfig.cache
+C:\BootcampGC\BACKEND\aep-fe-gc-net-introduccion-08-2023\ConsoleApplication5\obj\Debug\net7.0\ref\ConsoleApplication5.dll
